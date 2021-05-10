@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0
+}
+
+body {
+    background-color: #EDF1FA;
+}
+
+.title {
+    margin: 20 0 10 50;
+    font-family: sans-serif;
+}
+
+.title h1 {
+    color: red;
+}
+
+.header {
+    background-color: #2ca363;
+    /* Old browsers */
+    height: 90px;
+}
+
+.header img {
+    margin-left: 50;
+}
+
+.header p {
+    float: right;
+    margin-right: 100px;
+    margin-top: 34px;
+    color: #EDF1FA;
+}
+
+.container {
+    margin: auto;
+    margin-top: 40;
+    width: 80%;
+}
+
+.card {
+    background: white;
+    width: 45%;
+    float: left;
+    padding: 10px;
+}
